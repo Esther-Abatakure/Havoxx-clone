@@ -392,7 +392,7 @@ main .main-right {
 }
 .fourth-section-first-div {
   height: 75vh;
-  outline: 5px red solid;
+  /* outline: 5px red solid; */
   width: 80%;
   display: flex;
   justify-content: space-between;
@@ -406,7 +406,7 @@ main .main-right {
   justify-content: space-between;
 }
 .fourth-section-first-child .fourth-section-top-right {
-  outline: 5px blue solid;
+  /* outline: 5px blue solid; */
   min-height: 25vh;
   background-color: #fff;
 }
@@ -418,19 +418,19 @@ main .main-right {
 }
 .fourth-section-bottom-right > div {
   width: 47%;
-  outline: 4px green solid;
+  /* outline: 4px green solid; */
   height: 20vh;
   background-color: #fff;
 }
 
 .fourth-section-second-child {
-  outline: 5px orange solid;
+  /* outline: 5px orange solid; */
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
 .fourth-section-second-child-div1 {
-  outline: black 5px solid;
+  /* outline: black 5px solid; */
   height: 15vh;
   width: 100%;
   padding: 35px;
@@ -440,7 +440,7 @@ main .main-right {
 }
 .fourth-section-second-child-div2 {
   height: 35vh;
-  outline: 5px green solid;
+  /* outline: 5px green solid; */
   padding: 10%;
   /* display: flex; */
   /* flex-direction: row; */
